@@ -1,0 +1,61 @@
+
+
+input{
+
+    margin-top: 1px;
+    background-color: rgb(14, 12, 12);
+    color: rgb(252, 247, 247);
+    font-size: medium;
+    border: 2px solid rgb(120, 45, 45);
+}
+.Sing-up-form{
+ /* margin: auto; */
+ width:450px;
+ height: 490px;
+ /* border: 2px solid black; */
+ border-radius: 5px;
+ padding-left: 40px;
+ padding-bottom: 14px;
+ /* position: absolute; */
+ right: 100px;
+ background-color: rgb(250, 253, 255);
+
+}
+.singup-img{
+
+background-image: url("https://assets.website-files.com/5ad8cd05ffaa0969aee14a85/5ee24c12d60e206b79e5179f_Animated_Video_and_Corporate_Usage-1280x720.jpg");
+
+    background-repeat: no-repeat;
+
+    background-size:cover;
+    height: 505px;
+    width: 800px;
+
+
+}
+.Sing-up{
+
+    width: 310px;
+    height: 40px;
+    background-color: rgb(39, 16, 10);
+    color: white
+    ;
+    border-radius: 7px;
+}
+h1{
+    height: 8px;
+}
+
+.main-singup{
+    display: flex;
+
+/* border: 2px solid black; */
+    height: 449px;
+}
+
+.h1{
+
+
+    font-size: 20px;
+
+}

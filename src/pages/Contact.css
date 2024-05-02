@@ -1,0 +1,42 @@
+
+.c-h{
+    text-align: justify;
+    margin-left: 600px;
+    color: #000;
+  justify-content: center;
+
+}
+p{
+    margin-left :102px ;
+}
+.content{
+    margin-left: 102px;
+    line-height: 1px;
+    padding: 12px;
+}
+.contact-body{
+
+
+    background-color: rgb(238, 229, 229);
+    color: white;
+    height: 430px;
+
+    
+    padding-top: 75px;
+    background-image: url("https://webhunt.co.in/wp-content/uploads/2022/05/contactus-webhunt.png.webp");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+
+.contact-footer{
+    margin-top: 12px;
+    background-color: black;
+    color: white;
+    height: 150px;
+
+    text-align: center;
+    padding-top: 75px;
+
+}

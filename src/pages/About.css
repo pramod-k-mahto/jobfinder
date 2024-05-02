@@ -1,0 +1,20 @@
+.about-body {
+  background-color: rgb(57, 121, 193);
+  color: black;
+  height: 400px;
+  text-align: center;
+  padding: 55px;
+  line-height: 20px;
+  /* background-image: url('https://digitalfinch.co.uk/wp-content/uploads/2021/08/5-Considerations-for-your-Animated-Technology-Video.jpg'); */
+  background-repeat: no-repeat;
+  background-size: 600px 600px;
+  background-position: right;
+}
+
+.about-footer {
+  text-align: center;
+  padding: 75px;
+  height: 200px;
+  background-color: black;
+  color: white;
+}

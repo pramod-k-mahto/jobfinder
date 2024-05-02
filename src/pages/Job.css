@@ -1,0 +1,54 @@
+.job-list {
+    background-color: white;
+    color: black;
+    display: flex;
+    margin: 12px;
+    padding: 12px;
+    width: 350px;
+    border: 0.5px solid rgb(216, 210, 210);
+  }
+  
+  .img {
+    height: 40px;
+    width: 40px;
+  }
+  
+  .image-box {
+    height: 40px;
+    width: 40px;
+    padding: 10px;
+    margin-right: 15px;
+    background-color: #f9f9f9;
+  }
+  
+  .job-title {
+    color: black;
+  }
+  
+  .job {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: rgb(241, 237, 237);
+    margin: 12px;
+  }
+  
+  .footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .apply-btn {
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .apply-btn:hover {
+    background-color: #555;
+  }
+  

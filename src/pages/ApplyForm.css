@@ -1,0 +1,30 @@
+.ApplyForm {
+    margin: 50px auto;
+    width: 400px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ApplyForm input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .Apply-btn {
+    background-color: rgb(56, 54, 54);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .Apply-btn:hover {
+    background-color: #333;
+  }
+  

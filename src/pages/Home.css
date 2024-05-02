@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.home-header {
+    height: 400px;
+    background-image: url("../image/job.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+}
+
+.home-header h1 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.home-header p {
+    font-size: 18px;
+}
+
+.home-features {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+    background-color: #f9f9f9;
+}
+
+.feature {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+    margin: 0 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.home-footer {
+    height: 200px;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .home-slider {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+    background-color: #333;
+    border: 2px solid rgb(229, 24, 24);
+  }
+  
+  .home-slider img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: opacity 1s ease;
+  }
+  
+  .home-slider img.active {
+    opacity: 1;
+  }
+  
+  .home-content {
+    padding-top: -1px; 
+  }
+  
+  
